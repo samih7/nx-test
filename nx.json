@@ -35,10 +35,10 @@
       "implicitDependencies": ["test-app"]
     },
     "test-lib": {
-      "tags": []
+      "tags": ["type:util"]
     },
     "test2-lib": {
-      "tags": []
+      "tags": ["type:util"]
     }
   }
 }
